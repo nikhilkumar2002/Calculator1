@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Addition {
+public class Additionnumbers {
     static int n1,n2;
     public static void main(String x[]){
         Scanner sc=new Scanner(System.in);
